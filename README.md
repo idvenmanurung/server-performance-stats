@@ -4,6 +4,3 @@
 
 This Bash script displays basic server performance metrics to help monitor and debug system performance.
 
-## Features
-...
-
