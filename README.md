@@ -15,3 +15,4 @@ Script Bash sederhana untuk menampilkan statistik performa server:
 ```bash
 bash server-stats.sh
 
+🔗 Project Page: https://roadmap.sh/projects/server-stats
