@@ -1,6 +1,17 @@
 # Server Performance Stats
 
-🔗 **Project Page**: https://www.codemonk.ai/projects/server-performance-stats
+🔗 Project Page: https://roadmap.sh/projects/server-stats
 
-This Bash script displays basic server performance metrics to help monitor and debug system performance.
+Script Bash sederhana untuk menampilkan statistik performa server:
+
+- ✅ Total CPU usage
+- ✅ Total Memory usage (Free vs Used, termasuk persentase)
+- ✅ Total Disk usage (Free vs Used, termasuk persentase)
+- ✅ Top 5 proses berdasarkan penggunaan CPU
+- ✅ Top 5 proses berdasarkan penggunaan Memori
+
+## Cara Menjalankan
+
+```bash
+bash server-stats.sh
 
