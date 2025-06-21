@@ -11,3 +11,4 @@ This Bash script displays basic server performance metrics to help monitor and d
 - Top 5 processes by Memory usage
 - (Optional) OS version, Uptime, Load average, Logged in users
 
+🔗 **Project Page**: https://www.codemonk.ai/projects/server-performance-stats
